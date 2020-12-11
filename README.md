@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 I am Abin Babu.
 
-• 🌱 I’m currently making my baby steps learning React.js, Angular.js and Vue.js.
+• 🌱 I’m currently taking my baby steps learning libraries / frameworks like React.js, Angular.js and Vue.js.
 
 • 📫 Get in touch with me:
