@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am Abin Babu.
+
+• 🌱 I’m currently making my baby steps learning React.js, Angular.js and Vue.js.
+
+• 📫 Get in touch with me:
